@@ -32,12 +32,14 @@ scopes:
     - value: <a href="https://github.com/kitabisa?type=source">https://github.com/kitabisa/*</a>
       eligible: false
   out:
+    - "*.kitabisa.com"
     - blog.kitabisa.com
     - "*docs.kitabisa.com"
     - imgix.kitabisa.com
     - maintenance.kitabisa.com
     - static*.kitabisa.com
     - "*.ktbs.dev"
+    - "*.ktbs.in"
     - "*.kitabisa.cc"
 
 commitments:

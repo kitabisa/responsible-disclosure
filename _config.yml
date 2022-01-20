@@ -85,5 +85,5 @@ permalink: /:categories/:title/
 exclude:
   - Gemfile
   - Gemfile.lock
-  - LICENSE.md
+  - security.txt
   - README.md

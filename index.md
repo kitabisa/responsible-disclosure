@@ -43,7 +43,7 @@ In participating in our vulnerability disclosure program in good faith, we ask t
 
 ## Rewards
 
-The bounty/reward amount depends on the severity of the vulnerability and how detailed the respective report is.
+Our rewards are determined by the Kitabisa security team based on the potential impact of a vulnerability and how detailed the respective report is.
 
 <table>
   <thead>
@@ -62,11 +62,13 @@ The bounty/reward amount depends on the severity of the vulnerability and how de
   </tbody>
 </table>
 
+Please note these are general guidelines, and reward decisions are up to the discretion of Kitabisa.
+
 ## Official Channels 
 
 Please report security issues via **{{ site.email }}**, providing all relevant information. The more details you provide, the easier it will be for us to triage and fix the issue.
 
-The Kitabisa Security Team uses [this PGP key](/pgp.txt) to sign all security notifications and encourages others to use this key when sending sensitive information to us.
+The Kitabisa security team uses [this PGP key](/pgp.txt) to sign all security notifications and encourages others to use this key when sending sensitive information to us.
 
 <details>
 	<summary>PGP fingerprint: <code>{{ site.pgp_fingerprint }}</code></summary>

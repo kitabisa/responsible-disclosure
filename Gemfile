@@ -1,2 +1,6 @@
-source 'https://rubygems.org'
-gem 'github-pages', '>= 89', group: :jekyll_plugins
+source "https://rubygems.org"
+
+group :jekyll_plugins do
+  gem "github-pages", ">= 89"
+  gem "jekyll-last-modified-at"
+end

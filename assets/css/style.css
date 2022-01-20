@@ -15,9 +15,13 @@ body {
 	font-family: "Open Sans";
 }
 
-header, nav, main, footer {
+header, nav, main {
 	margin: 15px;
 	border-bottom: 1px dashed rgba(255,255,255,0.7);
+}
+
+footer {
+	margin: 15px;
 }
 
 td, th {

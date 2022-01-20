@@ -12,8 +12,10 @@ This policy outlines steps for reporting vulnerabilities to us, what we expect, 
 ## Systems in Scope
 
 {% for in-scope in site.scopes.in %}
-- <div><b>{{ in-scope }}</b></div>
+- <div><b>{{ in-scope.value }}</b>{% if in-scope.eligible == false %} <span class="ineligible">❌</span>{% endif %}</div>
 {% endfor %}
+
+<b>\*</b> <span class="ineligible">❌</span> means ineligible for bounty.
 
 ## Out of Scopes
 
@@ -62,7 +64,7 @@ Our rewards are determined by the Kitabisa security team based on the potential 
   </tbody>
 </table>
 
-Please note these are general guidelines, and reward decisions are up to the discretion of Kitabisa.
+<b>\*</b> Please note those are general guidelines, and reward decisions are up to the discretion of Kitabisa.
 
 ## Official Channels 
 

@@ -13,16 +13,27 @@ email: infosec@kitabisa.com
 pgp_fingerprint: F582 2A71 4345 99C0 70EB  472A 1FF2 8907 24C0 D9F5
 scopes:
   in:
-    - kitabisa.com
-    - accounts.kitabisa.com
-    - auth.kitabisa.com
-    - galangdana.kitabisa.com
-    - geni.kitabisa.com
-    - <a href="https://play.google.com/store/apps/details?id=com.kitabisa.android">Android</a>
-    - <a href="https://apps.apple.com/id/app/kitabisa/id1458307938">iOS</a>
-    - <a href="https://github.com/kitabisa?type=source">https://github.com/kitabisa/*</a>
+    - value: kitabisa.com
+      eligible: true
+    - value: accounts.kitabisa.com
+      eligible: true
+    - value: auth.kitabisa.com
+      eligible: true
+    - value: donasi.kitabisa.com
+      eligible: true
+    - value: galangdana.kitabisa.com
+      eligible: true
+    - value: geni.kitabisa.com
+      eligible: true
+    - value: "*.kitabisa.com"
+      eligible: false
+    - value: <a href="https://play.google.com/store/apps/details?id=com.kitabisa.android">Android</a>
+      eligible: true
+    - value: <a href="https://apps.apple.com/id/app/kitabisa/id1458307938">iOS</a>
+      eligible: true
+    - value: <a href="https://github.com/kitabisa?type=source">https://github.com/kitabisa/*</a>
+      eligible: false
   out:
-    - "*.kitabisa.com"
     - blog.kitabisa.com
     - "*docs.kitabisa.com"
     - imgix.kitabisa.com

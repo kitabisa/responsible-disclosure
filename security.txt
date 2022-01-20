@@ -1,0 +1,7 @@
+# Kitabisa.com security contacts and policy
+
+Canonical: https://kitabisa.com/security.txt
+Contact: mailto:infosec@kitabisa.com
+Hiring: https://www.linkedin.com/company/kitabisa.com/jobs/
+Policy: https://security.kitabisa.com
+Preferred-Languages: en, id

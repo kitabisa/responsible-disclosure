@@ -1,0 +1,80 @@
+# Site specific settings
+title: "Kitabisa Security"
+name: "Kitabisa Security"
+keywords: "Kitabisa Responsible Disclosure"
+baseurl: ""
+url: "https://security.kitabisa.com"
+description: "Kitabisa.com welcomes feedback from security researchers and the general public to help improve our security. If you believe you have discovered a vulnerability, privacy issue, exposed data, or other security issues in any of our assets, we want to hear from you. This policy outlines steps for reporting vulnerabilities to us, what we expect, what you can expect from us."
+cover: "/assets/img/cover.jpg"
+fanpage_id: ""
+
+# Policy settings
+email: infosec@kitabisa.com
+pgp_fingerprint: F582 2A71 4345 99C0 70EB  472A 1FF2 8907 24C0 D9F5
+scopes:
+  in:
+    - kitabisa.com
+    - accounts.kitabisa.com
+    - auth.kitabisa.com
+    - galangdana.kitabisa.com
+    - geni.kitabisa.com
+    - <a href="https://play.google.com/store/apps/details?id=com.kitabisa.android">Android</a>
+    - <a href="https://apps.apple.com/id/app/kitabisa/id1458307938">iOS</a>
+    - <a href="https://github.com/kitabisa?type=source">https://github.com/kitabisa/*</a>
+  out:
+    - "*.kitabisa.com"
+    - blog.kitabisa.com
+    - "*docs.kitabisa.com"
+    - imgix.kitabisa.com
+    - maintenance.kitabisa.com
+    - static*.kitabisa.com
+    - "*.ktbs.dev"
+    - "*.kitabisa.cc"
+
+commitments:
+  - Respond to your report promptly, and work with you to understand and validate your report;
+  - Strive to keep you informed about the progress of a vulnerability as it is processed;
+  - Work to remediate discovered vulnerabilities in a timely manner, within our operational constraints; and
+  - Extend Safe Harbor for your vulnerability research that is related to this policy.
+
+expectations:
+  - Play by the rules, including following this policy and any other relevant agreements. If there is any inconsistency between this policy and any other applicable terms, the terms of this policy will prevail;
+  - Report any vulnerability you’ve discovered promptly;
+  - Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;
+  - Use only the <a href="#official-channels">Official Channels</a> to discuss vulnerability information with us;
+  - Provide us a reasonable amount of time to resolve the issue before you disclose it publicly;
+  - Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;
+  - If a vulnerability provides unintended access to data; Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; and cease testing and submit a report immediately if you encounter any user data during testing, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information;
+  - You should only interact with test accounts you own or with explicit permission from the account holder; and
+  - Do not engage in extortion.
+
+bounties:
+  - severity: Low
+    range: Swags
+  - severity: Medium
+    range: IDR ~500.000-1.000.000
+  - severity: High
+    range: IDR ~1.500.000-2.000.000
+  - severity: Critical
+    range: IDR ~2.500.000-4.000.000
+
+harbors:
+  - Authorized concerning any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good-faith violations of this policy;
+  - Authorized concerning any relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;
+  - Exempt from restrictions in our Terms of Service (TOS) and/or Acceptable Usage Policy (AUP) that would interfere with conducting security research, and we waive those restrictions on a limited basis; and
+  - Lawful, helpful to the overall security of the Internet, and conducted in good faith.
+
+# Site general settings
+lang: "en"
+lang_alternate: "id_ID"
+ssl: false # It will redirect to https
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md

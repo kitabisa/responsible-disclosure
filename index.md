@@ -70,7 +70,7 @@ Our rewards are determined by the Kitabisa security team based on the potential 
 
 Please report security issues via **{{ site.email }}**, providing all relevant information. The more details you provide, the easier it will be for us to triage and fix the issue.
 
-The Kitabisa security team uses [this PGP key](/pgp.txt) to sign all security notifications and encourages others to use this key when sending sensitive information to us.
+The Kitabisa security team recommends to use [this PGP key](/pgp.txt) to sign all security notifications and encourages others to use this key when sending sensitive information to us.
 
 <details>
 	<summary>PGP fingerprint: <code>{{ site.pgp_fingerprint }}</code></summary>

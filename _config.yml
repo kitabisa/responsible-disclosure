@@ -40,7 +40,9 @@ scopes:
     - static*.kitabisa.com
     - "*.ktbs.dev"
     - "*.ktbs.in"
+    - "*.ktbs.io"
     - "*.kitabisa.cc"
+    - "*.kitabisa.org"
 
 commitments:
   - Respond to your report promptly, and work with you to understand and validate your report;

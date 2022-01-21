@@ -21,7 +21,7 @@ scopes:
       eligible: true
     - value: donasi.kitabisa.com
       eligible: true
-    - value: galangdana.kitabisa.com
+    - value: galang-dana.kitabisa.com
       eligible: true
     - value: geni.kitabisa.com
       eligible: true

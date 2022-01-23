@@ -58,6 +58,7 @@ expectations:
   - Play by the rules, including following this policy and any other relevant agreements. If there is any inconsistency between this policy and any other applicable terms, the terms of this policy will prevail;
   - Report any vulnerability you’ve discovered promptly;
   - Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;
+  - Limit the duration of the fundraising campaign to <b>1 day</b> during testing;
   - Use only the <a href="#official-channels">Official Channels</a> to discuss vulnerability information with us;
   - Provide us a reasonable amount of time to resolve the issue before you disclose it publicly;
   - Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;

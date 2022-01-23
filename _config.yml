@@ -19,7 +19,11 @@ scopes:
       eligible: true
     - value: auth.kitabisa.com
       eligible: true
+    - value: core.kitabisa.com
+      eligible: true
     - value: donasi.kitabisa.com
+      eligible: true
+    - value: galangdana.kitabisa.com
       eligible: true
     - value: galang-dana.kitabisa.com
       eligible: true

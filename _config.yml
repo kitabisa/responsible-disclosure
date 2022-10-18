@@ -17,8 +17,6 @@ scopes:
       eligible: true
     - value: accounts.kitabisa.com
       eligible: true
-    - value: auth.kitabisa.com
-      eligible: true
     - value: core.kitabisa.com
       eligible: true
     - value: donasi.kitabisa.com

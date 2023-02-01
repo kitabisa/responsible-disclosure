@@ -8,6 +8,10 @@ Everything related to scopes, bounties, commitments, expectations, etc. is defin
 
 Hall of Fame data is in `_data/thanks.yaml`.
 
+### Bounty
+
+Use `bounty-calc.py` to calculate bounty amount.
+
 ## License
 
 This theme is under [GPL3](assets/LICENSE).

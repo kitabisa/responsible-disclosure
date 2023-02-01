@@ -10,7 +10,7 @@ fanpage_id: ""
 
 # Policy settings
 email: infosec@kitabisa.com
-pgp_fingerprint: F582 2A71 4345 99C0 70EB  472A 1FF2 8907 24C0 D9F5
+pgp_fingerprint: F582 2A71 4345 99C0 70EB 472A 1FF2 8907 24C0 D9F5
 scopes:
   in:
     - value: kitabisa.com
@@ -68,11 +68,11 @@ bounties:
   - severity: Low
     range: Swags
   - severity: Medium
-    range: IDR ~500.000-1.000.000
+    range: IDR ~500.000-999.000
   - severity: High
-    range: IDR ~1.000.000-2.000.000
+    range: IDR ~1.000.000-1.999.000
   - severity: Critical
-    range: IDR ~2.000.000-3.000.000
+    range: IDR ~2.000.000-2.999.000
 
 harbors:
   - Authorized concerning any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good-faith violations of this policy;
@@ -94,3 +94,4 @@ exclude:
   - Gemfile.lock
   - security.txt
   - README.md
+  - bounty-calc.py

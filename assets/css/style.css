@@ -60,6 +60,14 @@ header, nav {
 	font-size: 15px;
 }
 
+blockquote {
+	border-left: 1px dashed rgba(255,255,255,0.8);
+    padding-left: 12px;
+    border-collapse: separate;
+    border-spacing: 15px;
+    margin-inline-start: 0.5em;
+}
+
 @media only screen and (max-width: 650px) {
 	.name {
 		font: 1.5vw/1.5vw monospace !important;

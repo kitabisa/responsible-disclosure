@@ -31,6 +31,8 @@ scopes:
       eligible: true
     - value: <a href="https://apps.apple.com/id/app/kitabisa/id1458307938">iOS</a>
       eligible: true
+    - value: waf.teler.app
+      eligible: false
     - value: <a href="https://github.com/kitabisa?type=source">https://github.com/kitabisa/*</a>
       eligible: false
   out:

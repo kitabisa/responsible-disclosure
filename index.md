@@ -29,7 +29,7 @@ This policy outlines steps for reporting vulnerabilities to us, what we expect, 
 - <div><b>{{ in-scope.value }}</b>{% if in-scope.eligible == false %} <span class="ineligible">❌</span>{% endif %}</div>
 {% endfor %}
 
-<b>\*</b> <span class="ineligible">❌</span> means ineligible for bounty.
+<b>\*</b> <span class="ineligible">❌</span>: ineligible for the bounty; but, you may receive credit for the CVE ID.
 
 ## Out of Scopes
 

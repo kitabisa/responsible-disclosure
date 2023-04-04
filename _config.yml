@@ -14,27 +14,16 @@ pgp_fingerprint: F582 2A71 4345 99C0 70EB 472A 1FF2 8907 24C0 D9F5
 scopes:
   in:
     - value: kitabisa.com
-      eligible: true
     - value: accounts.kitabisa.com
-      eligible: true
     - value: core.kitabisa.com
-      eligible: true
     - value: donasi.kitabisa.com
-      eligible: true
     - value: galangdana.kitabisa.com
-      eligible: true
     - value: galang-dana.kitabisa.com
-      eligible: true
     - value: geni.kitabisa.com
-      eligible: true
     - value: <a href="https://play.google.com/store/apps/details?id=com.kitabisa.android">Android</a>
-      eligible: true
     - value: <a href="https://apps.apple.com/id/app/kitabisa/id1458307938">iOS</a>
-      eligible: true
     - value: waf.teler.app
-      eligible: false
     - value: <a href="https://github.com/kitabisa?type=source">https://github.com/kitabisa/*</a>
-      eligible: false
   out:
     - "*.kitabisa.com"
     - blog.kitabisa.com
@@ -65,16 +54,6 @@ expectations:
   - If a vulnerability provides unintended access to data; Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; and cease testing and submit a report immediately if you encounter any user data during testing, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information;
   - You should only interact with test accounts you own or with explicit permission from the account holder; and
   - Do not engage in extortion.
-
-bounties:
-  - severity: Low
-    range: Swags
-  - severity: Medium
-    range: IDR ~500.000-999.000
-  - severity: High
-    range: IDR ~1.000.000-1.999.000
-  - severity: Critical
-    range: IDR ~2.000.000-2.999.000
 
 harbors:
   - Authorized concerning any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good-faith violations of this policy;

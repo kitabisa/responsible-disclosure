@@ -22,6 +22,7 @@ scopes:
     - value: geni.kitabisa.com
     - value: <a href="https://play.google.com/store/apps/details?id=com.kitabisa.android">Android</a>
     - value: <a href="https://apps.apple.com/id/app/kitabisa/id1458307938">iOS</a>
+    - value: waf.teler.app
     - value: <a href="https://github.com/kitabisa?type=source">https://github.com/kitabisa/*</a>
   out:
     - "*.kitabisa.com"

@@ -12,4 +12,4 @@ We would like to thank the following people for making a responsible disclosure 
 {% endfor %}
 </ol>
 
-<b>\*</b> Sort by latest.
+<b>\*</b> Please note that the list is sorted in chronological order, starting with the earliest.

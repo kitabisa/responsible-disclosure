@@ -64,6 +64,7 @@ header, nav {
 	font-family: monospace;
 	font-size: large;
 	color: greenyellow;
+	word-wrap: break-word;
 }
 
 blockquote {

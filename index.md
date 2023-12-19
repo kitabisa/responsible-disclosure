@@ -4,6 +4,43 @@ layout: default
 
 # Responsible Disclosure Policy
 
+## Announcement
+
+> -----BEGIN PGP SIGNED MESSAGE-----<br>
+> Hash: SHA512
+>
+> Dear valued researchers,
+>
+> Starting **December 22th**, and lasting until the New Year, we will temporarily pause the acceptance of new submissions. This decision is a result of the upcoming deployment freeze, which will limit our ability to review and address vulnerabilities promptly.
+>
+> Please be assured that your submissions are highly valued, and we encourage you to continue sending them to our [official channels](#official-channels). However, kindly note that our review and response to these submissions will resume once the holiday period concludes and our deployment freeze lifts.
+>
+> Our Vulnerability Disclosure Program will resume normal operations on **January 1st, 2024**, and we will review all submissions received during this period as soon as possible after that date.
+>
+> Thank you for your ongoing support and thinking of Kitabisa security.<br>
+> We wish you a joyful holiday season, merry X-mas, and a happy New Year!
+>
+> Best!<br>
+> dw1 @ Kitabisa Security Team<br>
+> -----BEGIN PGP SIGNATURE-----
+> 
+> iQIzBAEBCgAdFiEEDmLnOJC65PyD9kOJvZx+0YqeUHgFAmWB+bkACgkQvZx+0Yqe<br>
+> UHiZzA/+MraEqRdfQaGGzzLwtx1twQm1JoQ4L6e9S4pQm2E2KUCsO5al/d1GWQul<br>
+> +O0oAizAmCWgLsjSTkeRV5lH1DyHZ2CiSbvXTMahhMlRD8rSxneTps9IxgbdbM9H<br>
+> fFjImrHHAB51+RYBwDp+5tbXWMUy8eUAx8B9oQQXZ6MCHA1lgNKCgYn6OO/dtmK0<br>
+> WnRJeuKs4uTt8XivMqIOCzKru1moGQBB8fQ8BjtmtzZashpkxG8ec6ViEGhG5yHE<br>
+> KSJ/PQI4qXZ14h3I5wJlJMkujzutqf+6Fo+gRVAvHHJHvgnjZ1VHPwyGsH/yfja9<br>
+> rlw/Rg1QswX2//bJcXVh4lhayd+5bqkw2+cW0KX5BcxkLNUkdBT5x79cVQ28T9eY<br>
+> UwwbPre73D4VsELeUhJeUreUhBdn7JWXRGIZa2JB/A4lVxysGwSE8aKuVmVapClT<br>
+> cEk46N1Pq+fijSxI6k/HLJTRRtYJlU3UR4Vf200oSH3p5LwSLEJHtMnxQcF/laSB<br>
+> 3jFD3+F9O8t5h+HCI9n72kW+e4DRRtcx5NBoSCo3G1WmgnXFqaC9+mcgs7+mSP3M<br>
+> MKNfnroDNO/XZM3vd58qtyC74VD+4ZU2HMcRXJK5XduXJk6cWEiSWa0n0cfOd62O<br>
+> KoK8J1FdXITfvNy4dwGbYiHvOhZSWYx/lkDgk9onNuR9WxMQZc0=<br>
+> =Zv88<br>
+> -----END PGP SIGNATURE-----
+{: .announcement }
+
+
 ## Introduction
 
 Kitabisa.com welcomes feedback from security researchers and the general public to help improve our security. If you believe you have discovered a vulnerability, privacy issue, exposed data, or other security issues in any of our assets, we want to hear from you.

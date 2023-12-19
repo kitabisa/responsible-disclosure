@@ -11,7 +11,7 @@ layout: default
 >
 > Dear valued researchers,
 >
-> Starting **December 22nd**, and lasting until the New Year, we will temporarily pause the acceptance of new submissions. This decision is a result of the upcoming deployment freeze, which will limit our ability to review and address vulnerabilities promptly.
+> Starting **December 22nd**, and lasting until the New Year, we will temporarily pause the acceptance of new submissions. This decision is a result of the upcoming deployment freeze, which will limit our ability to promptly review and address vulnerabilities, consequently delaying the rollout of the patch.
 >
 > Please be assured that your submissions are highly valued, and we encourage you to continue sending them to our [official channels](#official-channels). However, kindly note that our review and response to these submissions will resume once the holiday period ends and our deployment freeze lifts.
 >
@@ -24,19 +24,19 @@ layout: default
 > dw1 @ Kitabisa Security Team<br>
 > -----BEGIN PGP SIGNATURE-----
 > 
-> iQIzBAEBCgAdFiEEDmLnOJC65PyD9kOJvZx+0YqeUHgFAmWCAtgACgkQvZx+0Yqe<br>
-> UHiokhAA3IhW8mSYtDwPmIJkjqXU60SAV0uHRRO84GfFI6Cj0bjtgcTbdN9Tjcr8<br>
-> GCmFnWQ7PdFy2MeslZoHiCij1HzSDUnAhtOmnqk57otFu87SF7x6nqP/s9p+Nhgv<br>
-> eJCkAroXJt5oN3fb2HFAy4Ek4y+bDp1na8zBaRWzlfv0YLLXwhRbFYmRXT9jEpsA<br>
-> P+b1XaTObTjL3zjwsk869gMSKqBMMagJaHy5DDbwN3tuRurcslR3T2SCCBWdkqpO<br>
-> m4mO9rcSb4vwvevTIS1WzJf+NivbskW2XV5/O09mTMyx37KBtEMa2f56rgH+GM0V<br>
-> MjtD5CShJtYxYrK+D5B3m1k5D2/IjUKhdPQJSYpMj4AgJVHaR06bM9Ro9aPDnhLL<br>
-> WY+Af4kUPj2htoZFSZRZnfJnnca8HUHCO3SdPmTzWHDG7xpGFaMiN7U8JrkPbT2r<br>
-> OwK1zTCRIKP73svZ55ckoYBr93T4So5imNJw92MyJir8wYcalbWwggSosle4Cxog<br>
-> PcyEGkQ8n5AfhWo5IAJgc+6nE5TfIdiatm7c58JKffBhdq9GIZ3MH9lgDNPUgsz0<br>
-> ddTtpDZWtoGSvNGQBJQahS8HPl/rDUwb5kHDmx9shslX7K8o0igaKTQnYuFDhpbp<br>
-> uoRfUrKRoEydwIY+mlF1HtFE3jXdGi6OsYWtPllOFbtBKSl3Sxs=<br>
-> =tUEQ<br>
+> iQIzBAEBCgAdFiEEDmLnOJC65PyD9kOJvZx+0YqeUHgFAmWCD2EACgkQvZx+0Yqe<br>
+> UHhfVg//VlfUliziiqbRoA+vgHoIEKSAszpktsvNrNpx+LDJ1huAu2lci0O/V2uH<br>
+> grH1rRcrRLPb8h0f6mhzBAnQGEJHn9hM/EzQRXWtgNoroSN48CLMLPYx3+tXMHga<br>
+> sMY/W5sIoR9khxQToWJHofsWnFiSVGKzgZXoHLT8rLKuju/ZgoO4VcVjZERXbtbF<br>
+> Nvw99LCxUaUip+ctxgwfmNLRXlahiwFiSude34yvnFR65enhAAQImBn7j7fklI9m<br>
+> oBFTPi7v01dx/aCGwvgngAqEzaDGIxphIBSLuaTUCl9/N8q0qsd0iCLPrLPhxHSk<br>
+> QIvYhhGuFROS8DejP5R8V4ikxTmDsaOA2ODosACa2CxAlmOTMqm/Hh04siMMxGUr<br>
+> YdQZvWmexVkfMYIiryxlcf1fuBKbkn7twvYN7XLRrV+BptD/1nbVd0gnbYEhC3b7<br>
+> kXajCTW85EHaNk8D31DoGWMCPBQ68MeFMZfw9RheSwWGx2Ft5/GV+SqUwTTbRX0G<br>
+> WPgW80bS5N39V8rjtnVKJGNnBqqRGhvfU4BkHPtoMI4JioNElm1IbM+MHSfEJs91<br>
+> TG2N2+HLJxYW/oHdml23X6/r8hO5sklgaBm4L5UHBJSZTr5/SjzmcCfJNg1Vpfiu<br>
+> YHbq4na7Fp77yf8EG+tuhOmJazzH5yHVx6L0oVBVQYhbE6czDic=<br>
+> =Qeyu<br>
 > -----END PGP SIGNATURE-----
 {: .announcement }
 

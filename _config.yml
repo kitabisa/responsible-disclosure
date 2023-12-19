@@ -10,7 +10,7 @@ fanpage_id: ""
 
 # Policy settings
 email: infosec@kitabisa.com
-pgp_fingerprint: F582 2A71 4345 99C0 70EB 472A 1FF2 8907 24C0 D9F5
+pgp_fingerprint: 0E62 E738 90BA E4FC 83F6  4389 BD9C 7ED1 8A9E 5078
 scopes:
   in:
     - value: kitabisa.com

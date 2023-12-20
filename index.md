@@ -6,40 +6,40 @@ layout: default
 
 ## Announcement
 
-> -----BEGIN PGP SIGNED MESSAGE-----<br>
-> Hash: SHA512
->
-> Dear valued researchers,
->
-> Starting **December 22nd**, and lasting until the New Year, we will temporarily pause the acceptance of new submissions. This decision is a result of the upcoming deployment freeze which is expected to cause a delay in the rollout of the patch. As a consequence of this circumstance, our ability to promptly assess and mitigate vulnerabilities will be constrained during this period.
->
-> Please be assured that your submissions are highly valued, and we encourage you to continue sending them to our [official channels](#official-channels). However, kindly note that our review and response to these submissions will resume once the holiday period ends and our deployment freeze lifts.
->
-> Our Vulnerability Disclosure Program will resume normal operations on **January 1st, 2024**, and we will review all submissions received during this period as soon as possible after that date.
->
-> Thank you for your ongoing support and thinking of Kitabisa security.<br>
-> We wish you a joyful holiday season. Merry X-mas and happy New Year!
->
-> Best!<br>
-> dw1 @ Kitabisa Security Team<br>
-> -----BEGIN PGP SIGNATURE-----
-> 
-> iQIzBAEBCgAdFiEEDmLnOJC65PyD9kOJvZx+0YqeUHgFAmWCF6QACgkQvZx+0Yqe<br>
-> UHi5nBAAi7ByeJylaySEhZwXq/GZowbyi9cYSGtvShLlJGJzMSI/uuhyXLTszPUS<br>
-> zc8nzIto/FZoFLTlkHRQQ+x4KbxWnN1ts/x6LTB+n0wVu/ZVpAT335sds4JCFHkW<br>
-> JogTkA/phazf/heUYjMjeULlOqg4AYX9SeEJ7yT3kVsrv72roaw/asjwgDP20zbv<br>
-> 5qXLmLvz5JPxXztBr24Ov2RtWp4LJcWXITAbmVzCyfhpWjxURIjB5ZA4bOEyQd/p<br>
-> XAqRlt32Xp4e0HSH/sehhJvq58bqord1/zUiYk/UQvqMYa2VBAQD7am2tTE0EBQ9<br>
-> TeLmaUjV09zg6Ktyn75mY5AKWWbYnbFRuX3252DNRV5mTEpgvxd2g7BeLkxR7EiA<br>
-> ESDBgHOg8Zy9KgmgtdIdXZRiD/lyBvMT4VMD0s5ExOKTbi2PioJs5GIHx5OLTDDZ<br>
-> My2X7oLwQsUXbSQpnFpsKnfXj1v66NlHeFizcU12BuTbgZ4vYmvrbgN3kHMm1U8q<br>
-> dohf7jZ4gp0lDOCTjsfpby/pYJmOPVVQYIwbnx8ixB0F1eWywFv2pvXe4/NKYxok<br>
-> k+zMy3yz4awArIoti/YVxSFiaPGD48IJAJ6st0XZ16FOgkBDRvfejBPPnPddjv1H<br>
-> Mrw+uGlGXip+FBEqI61n9JXhlvqq6xqY7p+iDgEgFxo/ghrJwfg=<br>
-> =TOxf<br>
-> -----END PGP SIGNATURE-----
-{: .announcement }
+<pre class="announcement">
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
 
+Dear valued researchers,
+
+Starting December 22nd, and lasting until the New Year, we will temporarily pause the acceptance of new submissions. This decision is a result of the upcoming deployment freeze which is expected to cause a delay in the rollout of the patch. As a consequence of this circumstance, our ability to promptly assess and mitigate vulnerabilities will be constrained during this period.
+
+Please be assured that your submissions are highly valued, and we encourage you to continue sending them to our official channels. However, kindly note that our review and response to these submissions will resume once the holiday period ends and our deployment freeze lifts.
+
+Our Vulnerability Disclosure Program will resume normal operations on January 1st, 2024, and we will review all submissions received during this period as soon as possible after that date.
+
+Thank you for your ongoing support and thinking of Kitabisa security.
+We wish you a joyful holiday season. Merry X-mas and happy New Year!
+
+Best!
+dw1 @ Kitabisa Security Team
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEDmLnOJC65PyD9kOJvZx+0YqeUHgFAmWCF6QACgkQvZx+0Yqe
+UHi5nBAAi7ByeJylaySEhZwXq/GZowbyi9cYSGtvShLlJGJzMSI/uuhyXLTszPUS
+zc8nzIto/FZoFLTlkHRQQ+x4KbxWnN1ts/x6LTB+n0wVu/ZVpAT335sds4JCFHkW
+JogTkA/phazf/heUYjMjeULlOqg4AYX9SeEJ7yT3kVsrv72roaw/asjwgDP20zbv
+5qXLmLvz5JPxXztBr24Ov2RtWp4LJcWXITAbmVzCyfhpWjxURIjB5ZA4bOEyQd/p
+XAqRlt32Xp4e0HSH/sehhJvq58bqord1/zUiYk/UQvqMYa2VBAQD7am2tTE0EBQ9
+TeLmaUjV09zg6Ktyn75mY5AKWWbYnbFRuX3252DNRV5mTEpgvxd2g7BeLkxR7EiA
+ESDBgHOg8Zy9KgmgtdIdXZRiD/lyBvMT4VMD0s5ExOKTbi2PioJs5GIHx5OLTDDZ
+My2X7oLwQsUXbSQpnFpsKnfXj1v66NlHeFizcU12BuTbgZ4vYmvrbgN3kHMm1U8q
+dohf7jZ4gp0lDOCTjsfpby/pYJmOPVVQYIwbnx8ixB0F1eWywFv2pvXe4/NKYxok
+k+zMy3yz4awArIoti/YVxSFiaPGD48IJAJ6st0XZ16FOgkBDRvfejBPPnPddjv1H
+Mrw+uGlGXip+FBEqI61n9JXhlvqq6xqY7p+iDgEgFxo/ghrJwfg=
+=TOxf
+-----END PGP SIGNATURE-----
+</pre>
 
 ## Introduction
 

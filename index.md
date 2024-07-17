@@ -4,6 +4,48 @@ layout: default
 
 # Responsible Disclosure Policy
 
+## Announcement
+
+<pre class="announcement">
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Dear valued researchers,
+
+Starting from 26th July 2024, we will be taking a
+break and will not be accepting any new
+submissions during this period.
+
+We deeply appreciate your understanding and
+patience during this uncertain time. We look
+forward to resuming our work and engaging with
+your valuable submissions as soon as we are able.
+
+Thanks for your understanding and ongoing support!
+
+Best,
+dw1
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEDmLnOJC65PyD9kOJvZx+0YqeUHgFAmaXPk
+8ACgkQvZx+0YqeUHhrEg//ePRj3oNY6+CUwiff2rfiuH0JRDy/
+qT876L6tjeadF/j59SpZyqSVfH+cDTuMigQ/r1MYBnmcCo0oLZ
+Q13R4CcQG+eXDwe6yfttcZgARkpVQ8IhuL6v3NWqo0qP0uvC2M
+bOr+WpXcfPgFS3NE+/djFPjgoSMhY9vmDezJ81H1+UKtNWVyHy
+U3mA2vYOKUDkSOS7ngUqdB8Q7lGOkiEUWudpxwj83ZxcjXpBnh
+LQqzfB5kVsSNCsCgVWaPAAqbE34j1qJEF/ToTrMyaVTopHjnhu
+JT2k3p69b+U5qtk1/+1faTurFKqhqIJhWi3LN8NgHJCkRCxXqM
+S6wBeoKx15tFaYO1zibnZckCdirT0JUXtZRg2KUWHqA4Ug7CgD
++BE0igz76qzcXzFez+JZduDNdeH2RqdhvP9yXLnoaVK9tKL09H
+tARvsZJATUlLbRsN2FydIJXsIDhjakegjngREJ23MJ+/MQQlQt
+2+4IYmF1gQes6MLFhuB8K+K5mG5lC/zkUD4kPGCBKxeqBtfT+k
+VByR/R+O16elFaHAqldnUBbG9k2NM1Ndl6JzW2krJY0YrneYv1
+ZERJK6CIyRMXU8Uo7ZswK75njD9xpGgbPpERhxOgZgIKR7InLH
+cjf7t14B23tBbTsWjeyq9e47KMQmpLfTg7cET7sn1vcPYG/zEN
+KBig==5xKY
+-----END PGP SIGNATURE-----
+</pre>
+
 ## Introduction
 
 Kitabisa.com welcomes feedback from security researchers and the general public to help improve our security. If you believe you have discovered a vulnerability, privacy issue, exposed data, or other security issues in any of our assets, we want to hear from you.

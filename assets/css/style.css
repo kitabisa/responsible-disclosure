@@ -64,6 +64,9 @@ header, nav {
 	font-family: monospace;
 	font-size: large;
 	color: greenyellow;
+	border-style: dashed;
+    border-width: 1px;
+    padding: 10px;
 }
 
 pre {
